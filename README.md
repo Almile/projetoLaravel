@@ -77,5 +77,3 @@ Acesse o sistema no navegador em [http://localhost:8000](http://localhost:8000).
 - **usuarios.blade.php**: Lista de usuários cadastrados.
 - **login.blade.php**: Tela de login.
 - **area-restrita.blade.php**: Conteúdo restrito para usuários autenticados.
-
-- 
